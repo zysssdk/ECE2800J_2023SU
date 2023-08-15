@@ -1,4 +1,4 @@
-//Zhou Yishen 521370910174
+//  @author zysssdk[odysseyzhou@126.com]
 #include "binaryTree.h"
 #include "huffmanTree.h"
 #include <fstream>
