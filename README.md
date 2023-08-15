@@ -37,4 +37,4 @@ Recitation Classes: Before mid and final exams
 
 ## About Honor Code (HC)
 
-If you are taking a course with the same course code (for example, "VE280_2023FA" or "ECE2800J_2024SU") in JI, you are likely to face similar (or even identical) labs and projects. In such cases, you should never copy any part of the codes in this repository, as this is a serious violation of JI Honor Code. I am not responsible for any consequences caused by such kind of "code plagiarism" mentioned above.
+If you are taking a course with the same course code (for example, "VE280_2023FA" or "ECE2800J_2024SU") in JI, you are likely to face similar (or even identical) labs and projects. In such cases, you should never copy any part of the codes in this repository, as this is a serious violation of [JI Honor Code](https://www.ji.sjtu.edu.cn/academics/academic-integrity/honor-code/). I am not responsible for any consequences caused by such kind of "code plagiarism" mentioned above.
